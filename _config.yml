@@ -6,9 +6,9 @@ baseurl:           "/"
 url:               "http://bosquedecorazones.club"
 
 # Social Profiles
-#twitter_username:  SBootstrap
+twitter_username:  arbioperu
 github_username:   arbio
-#facebook_username: StartBootstrap
+facebook_username: arbioperu
 
 # Build settings
 markdown:          kramdown

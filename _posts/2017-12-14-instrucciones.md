@@ -3,10 +3,10 @@ layout: post
 title: Instrucciones
 subtitle: Cómo escribir aquí
 date: '2017-12-14 00:45:13 -0500'
-background: /img/posts/06.jpg
+background: /img/posts/02.jpg
 published: true
-author: Equipo Bosque de Corazones
 ---
+
 ## Intro
 
 Hola equipo Arbio.
