@@ -8,7 +8,7 @@ published: true
 ---
 ## Intro
 
-Hola equipo Arbio.
+Hola Gianella y equipo Arbio.
 
 ### ¿Qué es todo esto?
 
@@ -26,7 +26,7 @@ Para el control más fino del aspecto y funcionamiento del blog es posible y des
 
 Para redactar y hacer cambios rápidos proponemos el uso de la herramienta **Prose.io** la cual ofrece un editor que permite editar directamente los archivos en el repositorio.
 
-Será necesario que cada editor tenga una cuenta en Github.com y obtenga los permisos correspondientes para el repositorio [arbio/bosque_corazones_blog](https://github.com/arbio/bosque_corazones_blog/).
+Será necesario que cada editor tenga una cuenta en Github.com y obtenga los permisos correspondientes para el [repositorio](https://github.com/arbio/bosque_corazones_blog/).
 
 ## Acceder al editor
 
@@ -38,7 +38,7 @@ Los posts se encuentran en el directorio `_posts`.
 
 Ellos tienen algunos `meta-data` tales como `title`, `subtitle`, `date`, `layout`, `author`, `background`.
 
-El formato de edición se llama Markdown y es una forma simplificada de escribir texto HTML.
+El formato de edición se llama [Markdown](http://commonmark.org/help/) y es una forma simplificada de escribir texto HTML.
 
 ## ¡Quedamos atentos
 
