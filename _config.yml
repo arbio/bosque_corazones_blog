@@ -1,14 +1,14 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+title:             Bosque de Corazones
+email:             equipo@somosazucar.org
+description:       Salvar la Amazonía
+author:            Equipo Bosque de Corazones
+baseurl:           "/bosque_corazones_blog"
+url:               "http://arbio.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+#twitter_username:  SBootstrap
+github_username:   arbio
+#facebook_username: StartBootstrap
 
 # Build settings
 markdown:          kramdown
