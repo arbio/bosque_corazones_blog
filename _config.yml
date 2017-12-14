@@ -2,8 +2,8 @@ title:             Bosque de Corazones
 email:             equipo@somosazucar.org
 description:       Salvar la Amazonía
 author:            Equipo Bosque de Corazones
-baseurl:           "/bosque_corazones_blog"
-url:               "http://arbio.github.io"
+baseurl:           "/"
+url:               "http://bosquedecorazones.club"
 
 # Social Profiles
 #twitter_username:  SBootstrap
