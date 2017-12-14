@@ -9,7 +9,7 @@ author: Equipo Bosque de Corazones
 ---
 ## Intro
 
-Hola Gianella y equipo Arbio.
+Hola equipo Arbio.
 
 ### ¿Qué es todo esto?
 
