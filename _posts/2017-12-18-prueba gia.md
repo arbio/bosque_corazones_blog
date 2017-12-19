@@ -3,7 +3,7 @@ published: true
 ---
 ## Prueba gia
 
-![blu]({{site.baseurl}}/_posts/pop1-005.jpg)![pop1-005.jpg]({{site.baseurl}}/_posts/pop1-005.jpg)
+![blu blu]({{site.baseurl}}/img/posts/pop1-001.jpg)
 
 prueba prueba prueba
 
