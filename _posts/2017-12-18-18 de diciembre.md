@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Prueba gia con imagen!
 
@@ -17,7 +17,4 @@ Mi papá ha decidido que quiere cambiar el piso de todo nuestro departamento. Me
 Venden esta madera diciendo que reforestan los bosques, mi papá llegó a la casa diciendo que ahora si iba contribuir con mi forma de vida, pero hay muchas cosas que él no sabe de este árbol y de nuestra Amazonía, cosas que yo sí sé y que quiero compartir con ustedes. 
 Necesito que me ayuden a convencer a mi papá de que no cambie el piso de mi casa. Necesito hacerle entender a mi familia que hay cosas más importantes que tener el piso de madera de moda. Necesito que entiendan que la vida importa. 
 Les agradece la lectura y difusión. 
-Una joven en apuros. 
-
-
-
+Una joven en apuros.
